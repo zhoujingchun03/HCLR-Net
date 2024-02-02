@@ -21,7 +21,8 @@ Download '/core' from "https://github.com/Hikari0608/Eval
 3.bash eval.sh
 ```
 For your convenience, we provide all paired training data and testing data used in our paper. 
-the weight download url: coming soon
+the weight download url:  ttps://pan.baidu.com/s/1qXvulXUTleu2K2aRicrzLQ 
+passwd: qe5d 
 
 
 
